@@ -40,7 +40,15 @@ No, but the time was close. I did have to avoid looking beyond what the activiti
 *Install and Explore Git*
 
 **What is a GitHub work flow?**
+It is an automated action added to the repository to manage a project on GitHub.
 
 **What did you notice about your own learning? What did you do when you were confused or blocked?**
+I went to the Slack page and often found resposnes from peers who shared similar queries. I'm also quite proactive and tried to self-help myself by going to Stack Overflow for answers and guidance.
 
 **Is there anything you'd do differently if you were to repeat the learning exploration again?**
+Not really as I am still learning. I will take my own initiative to read and research further. 
+
+*Track and Commit*
+
+**How would you describe stage and commit to your non-tech-savvy friend?**
+I think staging is the first part of the commit process. It allows one to keep working before fully making (commiting) the changes
