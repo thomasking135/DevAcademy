@@ -51,7 +51,8 @@ Not really as I am still learning. I will take my own initiative to read and res
 *Track and Commit*
 
 **How would you describe stage and commit to your non-tech-savvy friend?**
-I think staging is the first part of the commit process. It allows one to keep working before fully making (commiting) the changes
+I think staging is the first part of the commit process. It allows one to keep working before fully making (commiting) the changes. 
+
 *Branch, Pull, Merge*
 
 **What is main?**
